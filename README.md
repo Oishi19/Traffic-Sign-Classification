@@ -8,3 +8,5 @@ I have created three datasets here with mentioned classes as they were not speci
 * Training (from the 'data/train' directory): For training purposes
 * Validation (from the 'data/train' directory): For validating the performance of model while training
 * Testing (from the 'data/test' directory): For testing the performance of the model on unseen data for giving a lower bound on model's performance.
+
+Classification based Machine Learning Model using Convolutional Neural Network (CNN- Sequential model)
